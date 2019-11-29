@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_produk;datatype:int,name:id_kategori;datatype:int,name:nama_produk;datatype:string,name:produk_seo;datatype:string,name:deskripsi;datatype:blob,name:harga;datatype:int,name:stok;datatype:int,name:berat;datatype:real,name:tgl_masuk;datatype:date,name:gambar;datatype:string,name:dibeli;datatype:int,name:diskon;datatype:int,name:status;datatype:string,name:review;datatype:blob" />
+	<infoitem key="UD_abcd" value="name:id_produk;datatype:int,name:id_kategori;datatype:int,name:nama_produk;datatype:string,name:produk_seo;datatype:string,name:deskripsi;datatype:blob,name:harga;datatype:int,name:stok;datatype:int,name:berat;datatype:real,name:tgl_masuk;datatype:date,name:gambar;datatype:string,name:dibeli;datatype:int,name:diskon;datatype:int,name:status;datatype:string,name:review;datatype:blob" />
+</info>
